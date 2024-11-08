@@ -1,0 +1,9 @@
+1.oldal Kezdőlap (streetfood)
+2.oldal Menü
+3.oldal Kapcsolat
+
+Classok: main, banner, lezaro, contentm rendeles
+
+1.oldal: 0 aloldal
+2.oldal: 2 aloldal --> Menü, ajánlatok [menuajanlat.html] [menuajanlat2.html]
+3.oldal: 1 aloldal --> Elérhetőségek (ez a kapcsolat)
